@@ -1,0 +1,18 @@
+set tabsize 4
+set tabstospaces
+set linenumbers
+set nowrap
+set autoindent
+set mouse
+
+set titlecolor brightwhite,blue
+set statuscolor brightwhite,blue
+
+bind ^S writeout main
+bind ^O insert main
+bind ^F whereis main
+bind ^H replace main
+bind ^Q exit main
+bind ^Z undo main
+bind ^Y redo main
+bind M-Q help main
