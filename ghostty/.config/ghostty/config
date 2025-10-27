@@ -3,7 +3,11 @@ theme = Nord Wave
 
 # Current Shell
 shell-integration = zsh
+
+# Best font
+font-family = SF Mono
 window-subtitle = working-directory
 window-new-tab-position = end
 background-opacity = 0.5
 background-blur = true
+
