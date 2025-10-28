@@ -6,6 +6,7 @@ set autoindent
 set mouse
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 set titlecolor brightwhite,red
 set statuscolor brightwhite,blue
 
@@ -19,6 +20,9 @@ bind ^Y redo master
 bind M-Q help master
 =======
 set titlecolor brightwhite,blue
+=======
+set titlecolor brightwhite,red
+>>>>>>> 7332fb8 (Updated nano from blue to red)
 set statuscolor brightwhite,blue
 
 bind ^S writeout main
