@@ -5,7 +5,7 @@ set nowrap
 set autoindent
 set mouse
 
-set titlecolor brightwhite,blue
+set titlecolor brightwhite,red
 set statuscolor brightwhite,blue
 
 bind ^S writeout master
