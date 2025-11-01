@@ -6,7 +6,7 @@ This repository contains my personal configuration files (dotfiles) managed with
 
 **Clone URL:**  
 ```
-ssh://git@codeberg.org/Cube1ber/dotfiles.git
+git@github.com:cube-one-ber/dotfiles.git
 ```
 
 ## Requirements
@@ -18,7 +18,7 @@ ssh://git@codeberg.org/Cube1ber/dotfiles.git
 1. **Clone and initialize the dotfiles using Chezmoi**:
 
 ```zsh
-sh -c "$(curl -fsLS get.chezmoi.io)" -- init --ssh git@codeberg.org:Cube1ber/dotfiles.git
+sh -c "$(curl -fsLS get.chezmoi.io)" -- init --ssh git@github.com:cube-one-ber/dotfiles.git
 ```
 
 2. **Apply changes to your home directory**:
